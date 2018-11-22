@@ -5,7 +5,7 @@
 4 - clearTimeout
 5 - clearInterval
 6 - _Toy
-7 - native
+7 - _Native
 8 - setImmediate
 9 - clearImmediate
 10 - regenerateARuntime
