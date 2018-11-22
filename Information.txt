@@ -1,5 +1,5 @@
-0 - async generator
-1 - canvas
+0 - asyncGenerator
+1 - _Canvas
 2 - setTimeout
 3 - setInterval
 4 - clearTimeout
