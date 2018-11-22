@@ -1,0 +1,1 @@
+setStance - used as if it returns a Promise, but it doesnt. Only returns c&e
