@@ -4,7 +4,7 @@
 3 - setInterval
 4 - clearTimeout
 5 - clearInterval
-6 - _toy
+6 - _Toy
 7 - native
 8 - setImmediate
 9 - clearImmediate
